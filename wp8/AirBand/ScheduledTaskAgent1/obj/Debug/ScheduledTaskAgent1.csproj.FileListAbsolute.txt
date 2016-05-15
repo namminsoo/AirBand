@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

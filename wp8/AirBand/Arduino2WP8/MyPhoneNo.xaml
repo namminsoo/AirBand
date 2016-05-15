@@ -1,0 +1,81 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Arduino2WP8.MyPhoneNo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Orientation="Landscape"  >
+    <Grid  x:Name="LayoutRoot">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="번호 등록하기" Name="join" FontSize="40" HorizontalAlignment="Center"/>
+        </StackPanel>
+        <Grid Grid.Row="3" VerticalAlignment="Center">
+            <TextBlock Text="보험사 번호" Margin="30,10,352,0"/>
+            <TextBox x:Name="autoInsuranceNo" Text="01066899744" MaxLength="11" HorizontalAlignment="Left" Height="71" TextWrapping="Wrap" VerticalAlignment="Top" Width="225"  Margin="149,-15,0,-11"/>
+            <Button Content="친구찾기" Click ="direct_Click1" Height="65" Width="100" Name="direct1" Margin="350,-11,0,0"  FontSize= "12" />
+
+        </Grid>
+        <Grid Grid.Row="5">
+            <TextBlock Text="비상 연락망"  Margin="30,10,352,0"/>
+            <TextBox x:Name="emergencyNo1" MaxLength="11" GotFocus="emergencyNo1_Click" HorizontalAlignment="Left" Height="67" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" Margin="149,-15,0,-7"/>
+            <Button Content="친구찾기" Click ="direct_Click2" Height="65" Width="100" Name="direct2" Margin="350,-11,0,0"  FontSize= "12" />
+
+        </Grid>
+        <Grid Grid.Row="6">
+            <TextBlock Text="비상 연락망"  Margin="30,10,352,0"/>
+            <TextBox x:Name="emergencyNo2" MaxLength="11" GotFocus="emergencyNo2_Click" HorizontalAlignment="Left" Height="67" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" Margin="149,-15,0,-8"/>
+            <Button Content="친구찾기" Click ="direct_Click3" Height="65" Width="100" Name="direct3" Margin="350,-11,0,0"  FontSize= "12" />
+
+        </Grid>
+        <Grid Grid.Row="7">
+            <TextBlock Text="비상 연락망"  Margin="30,10,352,0"/>
+            <TextBox x:Name="emergencyNo3" MaxLength="11" GotFocus="emergencyNo3_Click" HorizontalAlignment="Left" Height="67" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" Margin="149,-15,0,-7"/>
+            <Button Content="친구찾기" Click ="direct_Click4" Height="65" Width="100" Name="direct4" Margin="350,-11,0,0"  FontSize= "12" />
+
+        </Grid>
+        <StackPanel  Grid.Row="8" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+            <ListBox x:Name="ContactResultsData" HorizontalAlignment="Center" VerticalAlignment="Center" ItemsSource="{Binding}" Height="250" Margin="12,0,10,0" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Button x:Name="peopleList" Content="{Binding DisplayName, Mode=OneWay}" Click="ContactResults_Click" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+        </StackPanel>
+
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Default" Opacity="1.0" IsMenuEnabled="True" IsVisible="True">
+
+            <shell:ApplicationBarIconButton x:Name="backBtn" Click="backBtn_Click" IconUri="/Assets/images/back.png" Text="back"/>
+            <shell:ApplicationBarIconButton x:Name="saveBtn" Click="saveBtn_Click"  IconUri="/Assets/images/save.png"  Text="register"/>
+
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="test menu"/>
+            </shell:ApplicationBar.MenuItems>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

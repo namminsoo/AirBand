@@ -1,0 +1,1607 @@
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\NextPage.g.cs
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\이상헌\Downloads\Imaginecup-ex file\Windows Phone 8 (sw+sh)\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\Windows Phone 8 (sw+sh)_backup_today_final\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\상헌오빠_아두이노연결\Windows Phone 8 (sw+sh)_backup_0123\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\ume\Documents\Visual Studio 2015\Projects\Gps_custom\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝2\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\남이끝3\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝4\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Desktop\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\남이끝5\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\SangWook\Documents\Visual Studio 2015\Projects\상욱2\Arduino2WP8\Arduino2WP8\obj\Debug\TutorialPage.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\TutorialPage.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\TutorialPage.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\namsoo\Desktop\Arduino2WP8\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\TutorialPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand(3.1)\Arduino2WP8\obj\Debug\TestContactsPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\AppManifest.xaml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\CameraPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyGps.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\TutorialPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\XapCacheFile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyContacts.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Page1.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\CameraPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\MyContacts.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing 3\AirBand_ing\Arduino2WP8\obj\Debug\Page1.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\AppManifest.xaml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\CameraPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyContacts.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyGps.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\XapCacheFile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyLocation.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyContacts.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyLocation.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page1.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page2.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Tutorial\Page3.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand_ing\Arduino2WP8\obj\Debug\XapCacheFile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\AppManifest.xaml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Spatial.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\System.Spatial.xml
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\App.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MainPage.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyContacts.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyGps.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyLocation.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+C:\Users\Nam\Documents\Visual Studio 2015\Projects\AirBand\Arduino2WP8\obj\Debug\XapCacheFile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\AppManifest.xaml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MyContacts.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MyGps.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MyLocation.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.18)\Arduino2WP8\obj\Debug\XapCacheFile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\ApplicationIcon.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\AppManifest.xaml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Properties\WMAppManifest.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Arduino2WP8_Debug_AnyCPU.xap
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Phone.Controls.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Spatial.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\System.Spatial.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\LifeGuard.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MyContacts.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MyGps.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MyLocation.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MyPhoneNo.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MyPhoneNum.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\Arduino2WP8.g.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\Arduino2WP8.Resources.AppResources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\LifeGuard.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\Arduino2WP8.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\Arduino2WP8.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\XapCacheFile.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\obj\Debug\MainMenu\MyBluetoothList.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ScheduledTaskAgent1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AirBand(3.20)\Arduino2WP8\Bin\Debug\ScheduledTaskAgent1.pdb

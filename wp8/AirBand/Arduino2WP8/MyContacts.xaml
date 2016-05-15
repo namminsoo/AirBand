@@ -1,0 +1,104 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Arduino2WP8.MyContacts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"
+    shell:SystemTray.IsVisible="True" Orientation="Portrait">
+
+    <!--LayoutRoot는 모든 페이지 내용이 배치되는 루트 표입니다.-->
+    <Grid x:Name="LayoutRoot"  Style="{StaticResource LayoutGridStyle}">
+        <!--피벗 컨트롤-->
+        <phone:Pivot Title="AirBand Emergency Contacts">
+            <!--피벗 항목 1-->
+            <phone:PivotItem Header="Personal">
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4*"/>
+                        <RowDefinition Height="1*"/>
+
+                    </Grid.RowDefinitions>
+
+                    <!--Added TextBlock control with formatted text.-->
+                    <TextBlock Grid.Row="0"
+       TextWrapping="Wrap"
+       Style="{StaticResource PhoneTextLargeStyle}">
+
+
+                    </TextBlock>
+
+
+
+
+
+                    <TextBlock Text="Name:" Margin="0,10,0,0" />
+
+                    <TextBox Grid.Row="0"   TextAlignment="Center" x:Name="myNameTb"  Height="72" 
+                             TextWrapping="Wrap" Text="남민수"  Foreground="Gray"  Width="456"
+                             VerticalAlignment="Top"
+                            GotFocus="myNameTb_GotFocus" LostFocus="myNameTb_LostFocus"  Margin="0,30,0,0" />
+
+
+                    <TextBlock Text="Phone Number:" Margin="0,110,0,0" />
+
+                    <TextBox Grid.Row="0"   TextAlignment="Center" x:Name="myNumTb"  Height="72" 
+                             TextWrapping="Wrap" Text="010-6689-9744"  Foreground="Gray"  Width="456"
+                             VerticalAlignment="Top"
+                            GotFocus="myNumTb_GotFocus" LostFocus="myNumTb_LostFocus" Margin="0,130,0,0" />
+
+                    <TextBlock Text="Car Insurance:" Margin="0,210,0,0" />
+
+
+                    <TextBox Grid.Row="0"   TextAlignment="Center" x:Name="myCarTb" HorizontalAlignment="Center"  Height="72" 
+                          Margin="0,230,0,0"
+                               TextWrapping="Wrap" Text="02-3702-8500"  Foreground="Gray"  Width="456"
+                                                          VerticalAlignment="Top"
+
+                            GotFocus="myCarTb_GotFocus" LostFocus="myCarTb_LostFocus" />
+
+                    <TextBlock Text="Blood Groups:" Margin="0,310,0,0" />
+
+
+                    <TextBox Grid.Row="0"   TextAlignment="Center" x:Name="mybloodTb" HorizontalAlignment="Center"  Height="72" 
+                          Margin="0,330,0,0"
+                               TextWrapping="Wrap" Text="Rh+ B형"  Foreground="Gray"  Width="456"
+                                                          VerticalAlignment="Top"
+                            GotFocus="mybloodTb_GotFocus" LostFocus="mybloodTb_LostFocus" />
+                    <Button Grid.Row="1" x:Name="saveBtn" Click="saveBtn_Click"  Content="Save" HorizontalAlignment="Center" Width="456" VerticalAlignment="Center"/>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--피벗 항목 1-->
+            <phone:PivotItem Header="Contacts">
+
+
+                <ListBox x:Name="listBox" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionChanged="listBox_SelectionChanged"/>
+
+
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Default" Opacity="1.0" IsMenuEnabled="True" IsVisible="True">
+
+            <shell:ApplicationBarIconButton x:Name="backBtn" Click="backBtn_Click" IconUri="/Assets/images/back.png" Text="back"/>
+
+   
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+
+
+</phone:PhoneApplicationPage>
